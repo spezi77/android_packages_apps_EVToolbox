@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<!--
+/*
  * Copyright (C) 2013 The Evervolv Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,14 +12,32 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- -->
+ */
 
-<resources> 
-    <color name="toolbox_primary">#607D8B</color>
-    <color name="toolbox_primary_dark">#37474F</color>
-    <color name="toolbox_accent">#B0BEC5</color>
-    <color name="toolbox_drawer_light">#ECEFF1</color>
+package com.spezi77.toolbox.custom;
 
-    <color name="toolbox_text_primary">#D9FFFFFF</color>
-    <color name="toolbox_text_secondary">#D9000000</color>
-</resources>
+public class DrawerItem {
+
+    private String mTitle;
+    private int mIconResource;
+    private boolean mIsHeader;
+
+    public DrawerItem(String title, int iconRes, boolean isHeader) {
+        mTitle = title;
+        mIconResource = iconRes;
+        mIsHeader = isHeader;
+    }
+
+    public String getTitle() {
+        return mTitle;
+    }
+
+    public int getIconResource() {
+        return mIconResource;
+    }
+
+    public boolean isHeader() {
+        return mIsHeader;
+    }
+
+}

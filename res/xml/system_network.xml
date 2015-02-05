@@ -18,7 +18,7 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <com.evervolv.toolbox.custom.HostnamePreference
+    <com.spezi77.toolbox.custom.HostnamePreference
         android:key="pref_system_hostname"
         android:title="@string/pref_system_hostname_title"
         android:dialogTitle="@string/pref_system_hostname_title"

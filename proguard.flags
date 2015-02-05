@@ -1,2 +1,2 @@
--keep public class com.evervolv.toolbox.fragments.*
--keep public class com.evervolv.toolbox.custom.*
+-keep public class com.spezi77.toolbox.fragments.*
+-keep public class com.spezi77.toolbox.custom.*

@@ -22,7 +22,7 @@ endif
 LOCAL_AAPT_FLAGS := --auto-add-overlay
 LOCAL_AAPT_FLAGS += --extra-packages android.support.v7.appcompat
 
-LOCAL_PACKAGE_NAME := EVToolbox
+LOCAL_PACKAGE_NAME := Toolbox
 LOCAL_CERTIFICATE := platform
 
 LOCAL_PRIVILEGED_MODULE := true

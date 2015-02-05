@@ -43,7 +43,7 @@
                 android:title="@string/pref_superuser_declared_permission_title"
                 android:summary="@string/pref_superuser_declared_permission_summary" />
 
-        <com.evervolv.toolbox.custom.PinEntryPreference
+        <com.spezi77.toolbox.custom.PinEntryPreference
                 android:key="pref_superuser_pin_entry"
                 android:title="@string/pref_superuser_pin_entry_title"/>
 

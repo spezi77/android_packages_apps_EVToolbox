@@ -44,8 +44,8 @@
             android:title="@string/pref_interface_fancy_ui_title"
             android:summary="@string/pref_interface_fancy_ui_summary"/>
 
-        <com.evervolv.toolbox.custom.NumberPickerPreference android:key="pref_interface_density_picker"
+        <com.spezi77.toolbox.custom.NumberPickerPreference android:key="pref_interface_density_picker"
             android:title="@string/pref_interface_density_picker_title">
-        </com.evervolv.toolbox.custom.NumberPickerPreference>
+        </com.spezi77.toolbox.custom.NumberPickerPreference>
 
 </PreferenceScreen>

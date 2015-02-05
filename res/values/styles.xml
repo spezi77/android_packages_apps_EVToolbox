@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.EVToolbox" parent="android:Theme.Material.Light.DarkActionBar">
-        <item name="android:colorPrimary">@color/evtoolbox_primary</item>
-        <item name="android:colorPrimaryDark">@color/evtoolbox_primary_dark</item>
-        <item name="android:colorAccent">@color/evtoolbox_accent</item>
-        <item name="android:textColorPrimary">@color/evtoolbox_text_primary</item>
-        <item name="android:textColor">@color/evtoolbox_text_secondary</item>
-        <item name="android:navigationBarColor">@color/evtoolbox_primary_dark</item>
+    <style name="Theme.Toolbox" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@color/toolbox_primary</item>
+        <item name="android:colorPrimaryDark">@color/toolbox_primary_dark</item>
+        <item name="android:colorAccent">@color/toolbox_accent</item>
+        <item name="android:textColorPrimary">@color/toolbox_text_primary</item>
+        <item name="android:textColor">@color/toolbox_text_secondary</item>
+        <item name="android:navigationBarColor">@color/toolbox_primary_dark</item>
     </style>
 
     <style name="PinButton">

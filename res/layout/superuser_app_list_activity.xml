@@ -23,13 +23,13 @@
     android:layout_height="match_parent">
 
     <fragment android:id="@+id/list_pane"
-        android:name="com.evervolv.toolbox.superuser.AppListFragment"
+        android:name="com.spezi77.toolbox.superuser.AppListFragment"
         android:layout_width="240dp"
         android:layout_height="match_parent"
         android:layout_gravity="left" />
 
     <fragment android:id="@+id/info_pane"
-        android:name="com.evervolv.toolbox.superuser.AppInfoFragment"
+        android:name="com.spezi77.toolbox.superuser.AppInfoFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
