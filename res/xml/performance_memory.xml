@@ -27,7 +27,7 @@
             android:entryValues="@array/pref_zram_size_values"
 	    android:defaultValue="50" />
 
-    <CheckBoxPreference
+    <SwitchPreference
             android:key="pref_ksm"
             android:title="@string/pref_ksm_title"
             android:summary="@string/pref_ksm_summary" />
