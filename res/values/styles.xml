@@ -6,7 +6,6 @@
         <item name="android:colorAccent">@color/toolbox_accent</item>
         <item name="android:textColorPrimary">@color/toolbox_text_primary</item>
         <item name="android:textColor">@color/toolbox_text_secondary</item>
-        <item name="android:navigationBarColor">@color/toolbox_primary_dark</item>
     </style>
 
     <style name="PinButton">
