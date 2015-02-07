@@ -125,6 +125,10 @@
     <string name="pref_statusbar_clock_am_pm_style_gone">Hidden</string>
     <string name="pref_statusbar_quick_pulldown_title">Quick QS Pulldown</string>
     <string name="pref_statusbar_quick_pulldown_summary">Expand Quick Settings in a single swipe</string>
+    
+        <!-- Superuser indicator-->
+    <string name="su_indicator">Superuser Indicator</string>
+    <string name="su_indicator_summary">Show superuser indicator when a session is active</string>
 
         <!-- System -->
 
