@@ -18,12 +18,6 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
         <CheckBoxPreference
-	        android:key="show_su_icon"
-		android:title="@string/su_indicator"
-		android:summary="@string/su_indicator_summary"
-		android:defaultValue="true" />
-		
-	<CheckBoxPreference
                 android:key="pref_superuser_logging"
                 android:title="@string/pref_superuser_logging_title"
                 android:summary="@string/pref_superuser_logging_summary" />
