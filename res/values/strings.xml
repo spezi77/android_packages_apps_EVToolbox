@@ -72,14 +72,8 @@
     <string name="interface_power_menu_title">Power menu</string>
 
         <!-- Interface >> General -->
-    <string name="pref_trackball_wake_toggle_title">Trackball wake</string>
-    <string name="pref_trackball_wake_toggle_summary">Trackball presses wake device</string>
     <string name="pref_volume_wake_toggle_title">Volume button wake</string>
     <string name="pref_volume_wake_toggle_summary">Volume button presses wake device</string>
-    <string name="pref_home_wake_toggle_title">Home button wake</string>
-    <string name="pref_home_wake_toggle_summary">Home button presses wake device</string>
-    <string name="pref_lockscreen_music_controls_volbtn_title">Volume music control</string>
-    <string name="pref_lockscreen_music_controls_volbtn_summary">Long press up to skip; down for previous</string>
     <string name="pref_interface_category_tabletdpi">Tablet &amp; DPI</string>
     <string name="pref_interface_density_picker_title">Custom display density</string>
     <string name="pref_interface_density_picker_summary">Current dpi: %1$d\nRecommended tablet dpi: %2$d\nDefault dpi: %3$d</string>
@@ -148,7 +142,7 @@
     <string name="pref_zram_summary">Compress memory for increased virtual capacity</string>
     <string name="pref_zram_reboot_text">New zRam settings will be applied on next boot</string>
     <string name="pref_ksm_title">Kernel samepage merging</string>
-    <string name="pref_ksm_summary">Ksm reduces physical memory requirements and improves performance</string>
+    <string name="pref_ksm_summary">KSM reduces physical memory requirements and improves performance</string>
 
         <!-- Performance >> Processor -->
     <string name="pref_processor_summary">Change CPU governor and clock speed</string>
